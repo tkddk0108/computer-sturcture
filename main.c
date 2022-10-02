@@ -1,4 +1,6 @@
 //main.c
+//메인함수 
+
 #include "bigint.h"
 
 
