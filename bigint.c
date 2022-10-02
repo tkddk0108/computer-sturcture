@@ -1,14 +1,6 @@
-/* amh_bigint.c:
- *
- * A portable arbitrary-precision integer arithmetic library written in C as a
- * personal exercise. Integers are stored as arrays of chars, each representing
- * a digit. Various arithmetic functions are implemented for use on these 
- * integers.
- *
- * Author: Adam M. Holmes
- */
-
-#include "amh_bigint.h"
+// amh_bigint.c:
+ 
+#include "bigint.h"
 
 
 amhbi_t *
