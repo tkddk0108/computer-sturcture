@@ -1,4 +1,5 @@
-// amh_bigint.c:
+// bigint.c
+// 함수파일
  
 #include "bigint.h"
 
